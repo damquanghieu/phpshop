@@ -1,0 +1,17 @@
+.conten-add{
+    color: #639;
+}
+.title-add{
+    margin-top: 60px;
+
+}
+form{
+    line-height: 60px;
+}
+.btn-add{
+    margin-top: 20px;
+    background-color: #639;
+}
+.btn-add:hover{
+    background-color: #8f5ebf;
+}
